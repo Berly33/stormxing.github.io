@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://www.stormxing.com/2017/09/22/3/</loc>
+    <lastmod>2017-09-22T11:52:44.869Z</lastmod>
+    <data>
+        <display>
+        <title>Next主题配置及优化</title>
+        <pubTime>2017-09-22T11:19:03.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="博客搭建" url="http://www.stormxing.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.stormxing.com/2017/09/21/2/</loc>
+    <lastmod>2017-09-22T09:12:40.932Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo+GitHub Pages搭建个人博客</title>
+        <pubTime>2017-09-21T08:43:12.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="博客搭建" url="http://www.stormxing.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.stormxing.com/2017/09/17/1/</loc>
+    <lastmod>2017-09-22T08:42:12.569Z</lastmod>
+    <data>
+        <display>
+        <title>安装ubuntu后的一些简单设置</title>
+        <pubTime>2017-09-17T08:26:21.000Z</pubTime>
+        
+        <tag>ubuntu</tag>
+         
+         
+           
+             
+              <breadCrumb title="操作系统" url="http://www.stormxing.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+</urlset>
