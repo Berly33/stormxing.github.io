@@ -3,15 +3,18 @@
 
 
     
+    
   <url>
     <loc>http://www.stormxing.com/2017/09/22/3/</loc>
-    <lastmod>2017-09-22T12:27:40.565Z</lastmod>
+    <lastmod>2017-09-22T23:23:03.533Z</lastmod>
     <data>
         <display>
         <title>Next主题配置及优化</title>
         <pubTime>2017-09-22T11:19:03.000Z</pubTime>
         
         <tag>Hexo</tag>
+         
+        <tag>Next主题</tag>
          
          
            
@@ -22,6 +25,30 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://www.stormxing.com/2017/09/17/1/</loc>
+    <lastmod>2017-09-22T23:22:16.832Z</lastmod>
+    <data>
+        <display>
+        <title>安装ubuntu后的一些简单设置</title>
+        <pubTime>2017-09-17T08:26:21.000Z</pubTime>
+        
+        <tag>ubuntu</tag>
+         
+        <tag>科学上网</tag>
+         
+         
+           
+             
+              <breadCrumb title="操作系统" url="http://www.stormxing.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
     
   <url>
     <loc>http://www.stormxing.com/2017/09/21/2/</loc>
@@ -42,28 +69,5 @@
     </data>
     </url>
 
-    
-  <url>
-    <loc>http://www.stormxing.com/2017/09/17/1/</loc>
-    <lastmod>2017-09-22T08:42:12.569Z</lastmod>
-    <data>
-        <display>
-        <title>安装ubuntu后的一些简单设置</title>
-        <pubTime>2017-09-17T08:26:21.000Z</pubTime>
-        
-        <tag>ubuntu</tag>
-         
-         
-           
-             
-              <breadCrumb title="操作系统" url="http://www.stormxing.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
     
 </urlset>
