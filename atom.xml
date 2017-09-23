@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>StormXing</title>
   
-  <subtitle>Storm Xing</subtitle>
+  <subtitle>StormXing</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.stormxing.com/"/>
@@ -10,7 +10,7 @@
   <id>http://www.stormxing.com/</id>
   
   <author>
-    <name>Storm Xing</name>
+    <name>StormXing</name>
     
   </author>
   
