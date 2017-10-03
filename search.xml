@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Git]]></title>
+    <url>%2F2017%2F10%2F01%2F5%2F</url>
+    <content type="text"><![CDATA[Git的使用提交文件 初始化仓库 1git init 添加文件到暂存区 1git add . 提交到分支 1git commit -m &apos;提交说明&apos; 查看12git status #查看仓库状态git diff #查看修改内容 撤销 新的文件未被add直接读取上一次暂存区 1git checkout -- . 新的文件已被add直接撤出暂存区 1git reset HEAD . 版本回退 查看版本号 12git loggit reflog 穿越过去 12git reset --hard HEAD^ #回退上一次版本git reset --hard 版本号 回到未来 1git reset --hard 版本号 分支 查看分支 1git branch 创建分支 1git branch 分支名 切换分支 1git checkout 分支名 12git checkout -b 分支名 #组合命令，创建并切换到新分支 合并分支先切换到主分支 12git merge a #将a分支的内容合并到主分支 删除分支 1234git branch -d name#删除已合并过的分支git branch -D name#强制删除未合并过的分支 版本标签为版本库添加标签 新建标签 12git tag v1.0#新建标签v1.0 切换到标签 1git checkout v1.0 删除标签 1git tag -d v1.0 Git与Github的协同添加远程仓库 直接克隆ssh协议 1git clone git@github.com:stormxing/test.git 关联本地已有仓库 12345$ git remote add origin git@github.com:stormxing/test.git #origin是远程仓库的默认名，也可以自己起git push -u origin master #第一次提交时需要执行的操作 提交代码到远程仓库 pull下载远程仓库的最新内容 1git pull origin master push上传到主分支 1git push origin master 参考文章：https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&amp;mid=2650661929&amp;idx=1&amp;sn=69e00516a30723c5a20af3c7a84173a4&amp;scene=21#wechat_redirecthttp://www.jianshu.com/p/7d0026305569]]></content>
+      <categories>
+        <category>idea</category>
+      </categories>
+      <tags>
+        <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[练习的技术]]></title>
     <url>%2F2017%2F09%2F25%2F4%2F</url>
     <content type="text"><![CDATA[Study and practice. Years of it.——Dr. Stephen Strange 来一份约定 刻意养成给自己正向说话的习惯 愿意分享自己的学习感悟 尊重老师和同学的不同意见 积极响应学习活动 练习是什么 练习≠重复知识工作者应该练习什么？ 知识的获取——输入 知识的内化——加工 知识的应用——输出 运用练习的技术开疆裂土 掌握快速创建心流的技术如何达到心流状态是高效舒畅练习的根本以下内容全部引用知乎鹿迷惑的回答，原文 生命的心流这个问题在米哈里的原书《生命的心流》里已经反复强调过了，我认为这是我们讨论心流问题时的大前提：动机！决定了心流的产生。充足的动机是进入心流状态的前提。当然高强度的心流活动往往还符合三大原则：即时反馈、挑战与技能匹配、目标清晰。 动机不仅指纯粹的兴趣，也可以是功利性的目标。我们常说的”deadline是第一生产力”，“男神是第一生产力”，“兴趣是最好的老师”就是这个意思。 以下引自米哈里•契克森米哈赖《生命的心流》： 厌恶数学的学生，若要他花时间定神细读微积分，恐怕十分困难。除非动机格外强烈（如决心通过考试），否则不易做到。一般说来，心里越挣扎，越难集中注意力。但如果热衷此事，动机又充足，就算万般棘手，你也能轻而易举达到全神贯注的境界。 名下拥有 200 多项专利的俄裔美籍发明家拉比诺（JacobRabinow)于 83 岁时这样描述自己的工作：“你有兴趣就必须动脑……像我这种人就喜欢做这种亊。想出一个新点子是十分有趣的亊，如果没有人要，我也不在乎。反正能想出一些新奇古怪的东西，本身就很好玩。” 得过两次诺贝尔奖的波林（LimisPauling)于89 岁接受访问时表示 “我认为自己从未坐下来自问，对现在的人生有什么打算？我只是一味向前，做自己想做的亊。” 杰出的心理学家坎贝尔（DonaldCampbell)告诫年轻学者：“如果你的兴趣在金钱，就别踏入科学界；如果你不能成名，又无法乐在其中，那么也别选择科学；倘若你能获得声名，自可受之无愧，但别忘了，你真正喜爱的是这份亊业。” 实用性建议 列出日常活动list或任务list，先对动机进行思考。 任务的选择是不是完全出于个人意愿？ 到底想不想要把任务完成？ 完成任务后能获得哪些回报？这些回报能不能为你带来足够的动机？ 如果有充足的动机，那么检查活动有没有满足三大原则，能不能进一步做到：细化目标、实现即时反馈、调整任务难度以适合个人技能水平。重新设计或完善任务过程，以达到心流状态。 如果没有充足的动机，那么一，重新思考大方向：是不是一定要这样做？ 没有动机是因为什么呢？ 能不能制造动机？ 几个可以制造的动机： 把任务拖到deadline之前做…（deadline是第一生产力） 男神或女神激励…… 计算利益。李笑来讲过的那个故事：一个小盆友要去美帝读phd可是他又不爱背GRE单词…后来他一算，好嘛，背下这么多单词就能过GRE,过了GRE就有全奖拿，奖学金摊下来，一个单词值20块钱人民币…背！背单词就是赚钱！ 警惕 勇猛之心易发 长远之心难持]]></content>

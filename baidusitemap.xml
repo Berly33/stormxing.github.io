@@ -3,10 +3,30 @@
 
 
     
+  <url>
+    <loc>http://www.stormxing.com/2017/10/01/5/</loc>
+    <lastmod>2017-10-03T06:20:44.381Z</lastmod>
+    <data>
+        <display>
+        <title>Git</title>
+        <pubTime>2017-10-01T05:52:57.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="idea" url="http://www.stormxing.com/categories/idea/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://www.stormxing.com/2017/09/25/4/</loc>
-    <lastmod>2017-09-25T00:53:43.704Z</lastmod>
+    <lastmod>2017-09-25T00:53:43.705Z</lastmod>
     <data>
         <display>
         <title>练习的技术</title>
@@ -26,7 +46,7 @@
     
   <url>
     <loc>http://www.stormxing.com/2017/09/17/1/</loc>
-    <lastmod>2017-09-24T01:51:21.679Z</lastmod>
+    <lastmod>2017-09-24T01:51:21.680Z</lastmod>
     <data>
         <display>
         <title>安装ubuntu后的一些简单设置</title>
@@ -48,7 +68,7 @@
     
   <url>
     <loc>http://www.stormxing.com/2017/09/21/2/</loc>
-    <lastmod>2017-09-23T05:35:02.887Z</lastmod>
+    <lastmod>2017-09-23T05:35:02.888Z</lastmod>
     <data>
         <display>
         <title>Hexo+GitHub Pages搭建个人博客</title>
