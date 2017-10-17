@@ -10,7 +10,7 @@
 
 #### Hexo+GitHub Pages搭建个人博客
 
-![  Hexo+Github Pages.png](http://upload-images.jianshu.io/upload_images/5349051-6f994654e7970691.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Hexo+Github Pages.png](http://upload-images.jianshu.io/upload_images/5349051-f3ad0f6ec653b0ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### Next主题配置及优化
 
