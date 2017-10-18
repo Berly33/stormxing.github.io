@@ -10,4 +10,12 @@
         <tag>Next</tag>
       </tags>
   </entry>
+  <entry>
+    <title><![CDATA[引用代码块]]></title>
+    <url>%2F2017%2F10%2F16%2F2%2F</url>
+    <content type="text"><![CDATA[12345678910111213141516171819202122&lt;!DOCTYPE html&gt;&lt;html lang="zh-CN"&gt;&lt;head&gt; &lt;meta charset="UTF-8"&gt; &lt;!-- Bootstrap --&gt; &lt;!--兼容IE--&gt; &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt; &lt;!--国产浏览器高速模式,目前仅360浏览器支持--&gt; &lt;meta name="renderer" content="webkit"&gt; &lt;!--移动设备适当的绘制和触屏缩放--&gt; &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt; &lt;!-- 引入Bootstrap 核心 CSS 文件 --&gt; &lt;link href="https://cdn.bootcss.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet"&gt; &lt;title&gt;练习bootstrap&lt;/title&gt;&lt;/head&gt;&lt;body&gt; &lt;!-- 如果要使用Bootstrap的js插件，必须先引入jQuery --&gt; &lt;script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"&gt;&lt;/script&gt; &lt;!-- 引入JavaScript核心文件--&gt; &lt;script src="https://cdn.bootcss.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;]]></content>
+      <tags>
+        <tag>代码块</tag>
+      </tags>
+  </entry>
 </search>
